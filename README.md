@@ -1,6 +1,6 @@
 # Post-it 
 
-## DEV.to [ir](dev.to/dashboard)
+## DEV.to [...ir](dev.to/dashboard)
 
 - Maneras de clonar un objecto en javascript
 [clone](https://github.com/VictorHugoAguilar/post-it/blob/main/clone-objects-javascript.md)
