@@ -1,4 +1,4 @@
-# post-it 
+# Post-it 
 
 ## DEV.to 
 [dev.to](dev.to/dashboard)
